@@ -18,7 +18,7 @@ function App() {
   // })
   return (
     <div className="App">
-      <h1>People Invited to my Party</h1>
+      <h1>People Invited to my Partyy</h1>
     </div>
   );
 }
